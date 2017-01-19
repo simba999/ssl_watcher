@@ -1,0 +1,639 @@
+2017-01-07 15:09:46,388 INFO The www.python.org resolves 151.101.76.223 ip
+2017-01-07 15:09:46,879 INFO connected
+2017-01-07 15:09:50,652 INFO The Timeout is None
+2017-01-07 15:09:55,284 INFO The www.stopify.com resolves 78.41.204.26 ip
+2017-01-07 15:10:16,285 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 16:02:44,083 INFO The site www.python.org is bad resolution
+2017-01-07 16:03:48,495 INFO The site shopboltnow.com is bad resolution
+2017-01-07 16:06:02,743 INFO The site google.com is bad resolution
+2017-01-07 18:47:11,821 INFO The google.com resolves 173.194.44.73 ip
+2017-01-07 18:47:12,094 INFO connected
+2017-01-07 18:47:15,278 INFO The Timeout is None
+2017-01-07 18:47:15,366 INFO The google.com resolves 173.194.44.78 ip
+2017-01-07 18:47:15,634 INFO connected
+2017-01-07 18:47:18,740 INFO The Timeout is None
+2017-01-07 18:47:18,740 INFO The google.com resolves 173.194.44.64 ip
+2017-01-07 18:47:19,008 INFO connected
+2017-01-07 18:47:22,115 INFO The Timeout is None
+2017-01-07 18:47:22,116 INFO The google.com resolves 173.194.44.65 ip
+2017-01-07 18:47:22,384 INFO connected
+2017-01-07 18:47:25,490 INFO The Timeout is None
+2017-01-07 18:47:25,490 INFO The google.com resolves 173.194.44.66 ip
+2017-01-07 18:47:25,758 INFO connected
+2017-01-07 18:47:28,862 INFO The Timeout is None
+2017-01-07 18:47:28,862 INFO The google.com resolves 173.194.44.67 ip
+2017-01-07 18:47:29,130 INFO connected
+2017-01-07 18:47:32,246 INFO The Timeout is None
+2017-01-07 18:47:32,250 INFO The google.com resolves 173.194.44.68 ip
+2017-01-07 18:47:32,518 INFO connected
+2017-01-07 18:47:35,623 INFO The Timeout is None
+2017-01-07 18:47:35,624 INFO The google.com resolves 173.194.44.69 ip
+2017-01-07 18:47:35,893 INFO connected
+2017-01-07 18:47:38,996 INFO The Timeout is None
+2017-01-07 18:47:38,997 INFO The google.com resolves 173.194.44.70 ip
+2017-01-07 18:47:39,265 INFO connected
+2017-01-07 18:47:42,384 INFO The Timeout is None
+2017-01-07 18:47:42,385 INFO The google.com resolves 173.194.44.71 ip
+2017-01-07 18:47:42,653 INFO connected
+2017-01-07 18:47:45,995 INFO The Timeout is None
+2017-01-07 18:47:45,995 INFO The google.com resolves 173.194.44.72 ip
+2017-01-07 18:47:46,263 INFO connected
+2017-01-07 18:47:49,365 INFO The Timeout is None
+2017-01-07 18:47:53,928 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 18:47:54,321 INFO connected
+2017-01-07 18:47:57,816 INFO The Timeout is None
+2017-01-07 18:48:10,105 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 18:49:22,407 INFO The google.com resolves 173.194.44.64 ip
+2017-01-07 18:49:22,675 INFO connected
+2017-01-07 18:49:25,808 INFO The Timeout is None
+2017-01-07 18:49:25,820 INFO The google.com resolves 173.194.44.65 ip
+2017-01-07 18:49:26,089 INFO connected
+2017-01-07 18:49:29,212 INFO The Timeout is None
+2017-01-07 18:49:29,215 INFO The google.com resolves 173.194.44.66 ip
+2017-01-07 18:49:29,484 INFO connected
+2017-01-07 18:49:32,606 INFO The Timeout is None
+2017-01-07 18:49:32,607 INFO The google.com resolves 173.194.44.67 ip
+2017-01-07 18:49:32,875 INFO connected
+2017-01-07 18:49:35,983 INFO The Timeout is None
+2017-01-07 18:49:35,984 INFO The google.com resolves 173.194.44.68 ip
+2017-01-07 18:49:36,252 INFO connected
+2017-01-07 18:49:39,358 INFO The Timeout is None
+2017-01-07 18:49:39,359 INFO The google.com resolves 173.194.44.69 ip
+2017-01-07 18:49:39,627 INFO connected
+2017-01-07 18:49:42,730 INFO The Timeout is None
+2017-01-07 18:49:42,731 INFO The google.com resolves 173.194.44.70 ip
+2017-01-07 18:49:42,999 INFO connected
+2017-01-07 18:49:46,104 INFO The Timeout is None
+2017-01-07 18:49:46,105 INFO The google.com resolves 173.194.44.71 ip
+2017-01-07 18:49:46,373 INFO connected
+2017-01-07 18:49:49,481 INFO The Timeout is None
+2017-01-07 18:49:49,482 INFO The google.com resolves 173.194.44.72 ip
+2017-01-07 18:49:49,751 INFO connected
+2017-01-07 18:49:52,876 INFO The Timeout is None
+2017-01-07 18:49:52,878 INFO The google.com resolves 173.194.44.73 ip
+2017-01-07 18:49:53,146 INFO connected
+2017-01-07 18:49:56,255 INFO The Timeout is None
+2017-01-07 18:49:56,256 INFO The google.com resolves 173.194.44.78 ip
+2017-01-07 18:49:56,524 INFO connected
+2017-01-07 18:49:59,630 INFO The Timeout is None
+2017-01-07 18:50:04,166 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 18:50:04,559 INFO connected
+2017-01-07 18:50:08,012 INFO The Timeout is None
+2017-01-07 18:50:20,290 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 18:51:40,277 INFO The google.com resolves 173.194.44.66 ip
+2017-01-07 18:51:40,557 INFO connected
+2017-01-07 18:51:43,684 INFO The Timeout is None
+2017-01-07 18:51:43,714 INFO The google.com resolves 173.194.44.67 ip
+2017-01-07 18:51:43,982 INFO connected
+2017-01-07 18:51:47,084 INFO The Timeout is None
+2017-01-07 18:51:47,085 INFO The google.com resolves 173.194.44.68 ip
+2017-01-07 18:51:47,353 INFO connected
+2017-01-07 18:51:50,456 INFO The Timeout is None
+2017-01-07 18:51:50,457 INFO The google.com resolves 173.194.44.69 ip
+2017-01-07 18:51:50,725 INFO connected
+2017-01-07 18:51:53,835 INFO The Timeout is None
+2017-01-07 18:51:53,836 INFO The google.com resolves 173.194.44.70 ip
+2017-01-07 18:51:54,103 INFO connected
+2017-01-07 18:51:57,203 INFO The Timeout is None
+2017-01-07 18:51:57,203 INFO The google.com resolves 173.194.44.71 ip
+2017-01-07 18:51:57,471 INFO connected
+2017-01-07 18:52:00,575 INFO The Timeout is None
+2017-01-07 18:52:00,576 INFO The google.com resolves 173.194.44.72 ip
+2017-01-07 18:52:00,844 INFO connected
+2017-01-07 18:52:03,964 INFO The Timeout is None
+2017-01-07 18:52:03,965 INFO The google.com resolves 173.194.44.73 ip
+2017-01-07 18:52:04,235 INFO connected
+2017-01-07 18:52:07,339 INFO The Timeout is None
+2017-01-07 18:52:07,340 INFO The google.com resolves 173.194.44.78 ip
+2017-01-07 18:52:07,608 INFO connected
+2017-01-07 18:52:10,739 INFO The Timeout is None
+2017-01-07 18:52:10,740 INFO The google.com resolves 173.194.44.64 ip
+2017-01-07 18:52:11,008 INFO connected
+2017-01-07 18:52:14,117 INFO The Timeout is None
+2017-01-07 18:52:14,118 INFO The google.com resolves 173.194.44.65 ip
+2017-01-07 18:52:14,385 INFO connected
+2017-01-07 18:52:17,491 INFO The Timeout is None
+2017-01-07 18:52:22,026 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 18:52:22,418 INFO connected
+2017-01-07 18:52:25,879 INFO The Timeout is None
+2017-01-07 18:52:38,154 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:00:23,297 INFO The google.com resolves 173.194.44.69 ip
+2017-01-07 19:00:23,590 INFO connected
+2017-01-07 19:00:26,724 INFO The Timeout is None
+2017-01-07 19:00:26,725 INFO unmatched certificate
+2017-01-07 19:00:26,725 INFO The google.com resolves 173.194.44.70 ip
+2017-01-07 19:00:26,994 INFO connected
+2017-01-07 19:00:30,100 INFO The Timeout is None
+2017-01-07 19:00:30,101 INFO unmatched certificate
+2017-01-07 19:00:30,101 INFO The google.com resolves 173.194.44.71 ip
+2017-01-07 19:00:30,371 INFO connected
+2017-01-07 19:00:33,492 INFO The Timeout is None
+2017-01-07 19:00:33,492 INFO unmatched certificate
+2017-01-07 19:00:33,493 INFO The google.com resolves 173.194.44.72 ip
+2017-01-07 19:00:33,760 INFO connected
+2017-01-07 19:00:36,866 INFO The Timeout is None
+2017-01-07 19:00:36,866 INFO unmatched certificate
+2017-01-07 19:00:36,866 INFO The google.com resolves 173.194.44.73 ip
+2017-01-07 19:00:37,134 INFO connected
+2017-01-07 19:00:40,237 INFO The Timeout is None
+2017-01-07 19:00:40,238 INFO unmatched certificate
+2017-01-07 19:00:40,238 INFO The google.com resolves 173.194.44.78 ip
+2017-01-07 19:00:40,505 INFO connected
+2017-01-07 19:00:43,610 INFO The Timeout is None
+2017-01-07 19:00:43,610 INFO unmatched certificate
+2017-01-07 19:00:43,610 INFO The google.com resolves 173.194.44.64 ip
+2017-01-07 19:00:43,879 INFO connected
+2017-01-07 19:00:46,982 INFO The Timeout is None
+2017-01-07 19:00:46,982 INFO unmatched certificate
+2017-01-07 19:00:46,983 INFO The google.com resolves 173.194.44.65 ip
+2017-01-07 19:00:47,250 INFO connected
+2017-01-07 19:00:50,355 INFO The Timeout is None
+2017-01-07 19:00:50,356 INFO unmatched certificate
+2017-01-07 19:00:50,356 INFO The google.com resolves 173.194.44.66 ip
+2017-01-07 19:00:50,624 INFO connected
+2017-01-07 19:00:53,730 INFO The Timeout is None
+2017-01-07 19:00:53,730 INFO unmatched certificate
+2017-01-07 19:00:53,731 INFO The google.com resolves 173.194.44.67 ip
+2017-01-07 19:00:53,998 INFO connected
+2017-01-07 19:00:57,117 INFO The Timeout is None
+2017-01-07 19:00:57,117 INFO unmatched certificate
+2017-01-07 19:00:57,117 INFO The google.com resolves 173.194.44.68 ip
+2017-01-07 19:00:57,386 INFO connected
+2017-01-07 19:01:00,504 INFO The Timeout is None
+2017-01-07 19:01:00,505 INFO unmatched certificate
+2017-01-07 19:01:05,040 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 19:01:05,436 INFO connected
+2017-01-07 19:01:08,903 INFO The Timeout is None
+2017-01-07 19:01:08,904 INFO unmatched certificate
+2017-01-07 19:01:21,179 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:04:04,400 INFO The google.com resolves 173.194.44.71 ip
+2017-01-07 19:04:04,669 INFO connected
+2017-01-07 19:04:07,813 INFO The Timeout is None
+2017-01-07 19:04:07,814 INFO unmatched certificate
+2017-01-07 19:04:07,816 INFO The google.com resolves 173.194.44.72 ip
+2017-01-07 19:04:08,084 INFO connected
+2017-01-07 19:04:11,190 INFO The Timeout is None
+2017-01-07 19:04:11,190 INFO unmatched certificate
+2017-01-07 19:04:11,191 INFO The google.com resolves 173.194.44.73 ip
+2017-01-07 19:04:11,458 INFO connected
+2017-01-07 19:04:14,567 INFO The Timeout is None
+2017-01-07 19:04:14,568 INFO unmatched certificate
+2017-01-07 19:04:14,568 INFO The google.com resolves 173.194.44.78 ip
+2017-01-07 19:04:14,836 INFO connected
+2017-01-07 19:04:17,940 INFO The Timeout is None
+2017-01-07 19:04:17,941 INFO unmatched certificate
+2017-01-07 19:04:17,941 INFO The google.com resolves 173.194.44.64 ip
+2017-01-07 19:04:18,209 INFO connected
+2017-01-07 19:04:21,314 INFO The Timeout is None
+2017-01-07 19:04:21,314 INFO unmatched certificate
+2017-01-07 19:04:21,315 INFO The google.com resolves 173.194.44.65 ip
+2017-01-07 19:04:21,582 INFO connected
+2017-01-07 19:04:24,689 INFO The Timeout is None
+2017-01-07 19:04:24,690 INFO unmatched certificate
+2017-01-07 19:04:24,691 INFO The google.com resolves 173.194.44.66 ip
+2017-01-07 19:04:24,959 INFO connected
+2017-01-07 19:04:28,064 INFO The Timeout is None
+2017-01-07 19:04:28,065 INFO unmatched certificate
+2017-01-07 19:04:28,065 INFO The google.com resolves 173.194.44.67 ip
+2017-01-07 19:04:28,333 INFO connected
+2017-01-07 19:04:31,452 INFO The Timeout is None
+2017-01-07 19:04:31,453 INFO unmatched certificate
+2017-01-07 19:04:31,453 INFO The google.com resolves 173.194.44.68 ip
+2017-01-07 19:04:31,721 INFO connected
+2017-01-07 19:04:34,825 INFO The Timeout is None
+2017-01-07 19:04:34,826 INFO unmatched certificate
+2017-01-07 19:04:34,826 INFO The google.com resolves 173.194.44.69 ip
+2017-01-07 19:04:35,094 INFO connected
+2017-01-07 19:04:38,197 INFO The Timeout is None
+2017-01-07 19:04:38,197 INFO unmatched certificate
+2017-01-07 19:04:38,197 INFO The google.com resolves 173.194.44.70 ip
+2017-01-07 19:04:38,465 INFO connected
+2017-01-07 19:04:41,585 INFO The Timeout is None
+2017-01-07 19:04:41,586 INFO unmatched certificate
+2017-01-07 19:04:46,119 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 19:04:46,509 INFO connected
+2017-01-07 19:04:49,987 INFO The Timeout is None
+2017-01-07 19:04:49,987 INFO unmatched certificate
+2017-01-07 19:05:21,402 INFO The google.com resolves 74.125.232.227 ip
+2017-01-07 19:05:21,670 INFO connected
+2017-01-07 19:05:24,790 INFO The Timeout is None
+2017-01-07 19:05:24,791 INFO unmatched certificate
+2017-01-07 19:05:24,793 INFO <class 'Exception'>
+2017-01-07 19:05:24,797 INFO The google.com resolves 74.125.232.228 ip
+2017-01-07 19:05:25,067 INFO connected
+2017-01-07 19:05:28,172 INFO The Timeout is None
+2017-01-07 19:05:28,172 INFO unmatched certificate
+2017-01-07 19:05:28,173 INFO <class 'Exception'>
+2017-01-07 19:05:28,173 INFO The google.com resolves 74.125.232.229 ip
+2017-01-07 19:05:28,441 INFO connected
+2017-01-07 19:05:31,545 INFO The Timeout is None
+2017-01-07 19:05:31,545 INFO unmatched certificate
+2017-01-07 19:05:31,546 INFO <class 'Exception'>
+2017-01-07 19:05:31,546 INFO The google.com resolves 74.125.232.230 ip
+2017-01-07 19:05:31,815 INFO connected
+2017-01-07 19:05:34,922 INFO The Timeout is None
+2017-01-07 19:05:34,923 INFO unmatched certificate
+2017-01-07 19:05:34,923 INFO <class 'Exception'>
+2017-01-07 19:05:34,924 INFO The google.com resolves 74.125.232.231 ip
+2017-01-07 19:05:35,192 INFO connected
+2017-01-07 19:05:38,297 INFO The Timeout is None
+2017-01-07 19:05:38,297 INFO unmatched certificate
+2017-01-07 19:05:38,297 INFO <class 'Exception'>
+2017-01-07 19:05:38,298 INFO The google.com resolves 74.125.232.232 ip
+2017-01-07 19:05:38,565 INFO connected
+2017-01-07 19:05:41,672 INFO The Timeout is None
+2017-01-07 19:05:41,673 INFO unmatched certificate
+2017-01-07 19:05:41,674 INFO <class 'Exception'>
+2017-01-07 19:05:41,674 INFO The google.com resolves 74.125.232.233 ip
+2017-01-07 19:05:41,943 INFO connected
+2017-01-07 19:05:45,049 INFO The Timeout is None
+2017-01-07 19:05:45,049 INFO unmatched certificate
+2017-01-07 19:05:45,049 INFO <class 'Exception'>
+2017-01-07 19:05:45,050 INFO The google.com resolves 74.125.232.238 ip
+2017-01-07 19:05:45,317 INFO connected
+2017-01-07 19:05:48,423 INFO The Timeout is None
+2017-01-07 19:05:48,423 INFO unmatched certificate
+2017-01-07 19:05:48,423 INFO <class 'Exception'>
+2017-01-07 19:05:48,424 INFO The google.com resolves 74.125.232.224 ip
+2017-01-07 19:05:48,692 INFO connected
+2017-01-07 19:05:51,795 INFO The Timeout is None
+2017-01-07 19:05:51,795 INFO unmatched certificate
+2017-01-07 19:05:51,802 INFO <class 'Exception'>
+2017-01-07 19:05:51,803 INFO The google.com resolves 74.125.232.225 ip
+2017-01-07 19:05:52,070 INFO connected
+2017-01-07 19:05:55,174 INFO The Timeout is None
+2017-01-07 19:05:55,175 INFO unmatched certificate
+2017-01-07 19:05:55,175 INFO <class 'Exception'>
+2017-01-07 19:05:55,175 INFO The google.com resolves 74.125.232.226 ip
+2017-01-07 19:05:55,443 INFO connected
+2017-01-07 19:05:58,545 INFO The Timeout is None
+2017-01-07 19:05:58,545 INFO unmatched certificate
+2017-01-07 19:05:58,546 INFO <class 'Exception'>
+2017-01-07 19:06:03,080 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 19:06:03,472 INFO connected
+2017-01-07 19:06:06,935 INFO The Timeout is None
+2017-01-07 19:06:06,935 INFO unmatched certificate
+2017-01-07 19:06:06,935 INFO <class 'Exception'>
+2017-01-07 19:06:19,209 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:08:08,755 INFO The google.com resolves 74.125.232.230 ip
+2017-01-07 19:08:09,023 INFO connected
+2017-01-07 19:08:12,136 INFO The Timeout is None
+2017-01-07 19:09:01,395 INFO The google.com resolves 74.125.232.233 ip
+2017-01-07 19:09:01,663 INFO connected
+2017-01-07 19:09:04,782 INFO The Timeout is None
+2017-01-07 19:09:05,625 INFO The google.com resolves 74.125.232.238 ip
+2017-01-07 19:09:05,894 INFO connected
+2017-01-07 19:09:09,002 INFO The Timeout is None
+2017-01-07 19:09:09,839 INFO The google.com resolves 74.125.232.224 ip
+2017-01-07 19:09:10,109 INFO connected
+2017-01-07 19:09:13,218 INFO The Timeout is None
+2017-01-07 19:09:14,057 INFO The google.com resolves 74.125.232.225 ip
+2017-01-07 19:09:14,326 INFO connected
+2017-01-07 19:09:17,450 INFO The Timeout is None
+2017-01-07 19:09:18,290 INFO The google.com resolves 74.125.232.226 ip
+2017-01-07 19:09:18,559 INFO connected
+2017-01-07 19:09:21,665 INFO The Timeout is None
+2017-01-07 19:09:22,502 INFO The google.com resolves 74.125.232.227 ip
+2017-01-07 19:09:22,770 INFO connected
+2017-01-07 19:09:25,876 INFO The Timeout is None
+2017-01-07 19:09:26,722 INFO The google.com resolves 74.125.232.228 ip
+2017-01-07 19:09:26,990 INFO connected
+2017-01-07 19:09:30,095 INFO The Timeout is None
+2017-01-07 19:09:30,934 INFO The google.com resolves 74.125.232.229 ip
+2017-01-07 19:09:31,202 INFO connected
+2017-01-07 19:09:34,308 INFO The Timeout is None
+2017-01-07 19:09:35,146 INFO The google.com resolves 74.125.232.230 ip
+2017-01-07 19:09:35,414 INFO connected
+2017-01-07 19:09:38,520 INFO The Timeout is None
+2017-01-07 19:09:39,358 INFO The google.com resolves 74.125.232.231 ip
+2017-01-07 19:09:39,626 INFO connected
+2017-01-07 19:09:42,730 INFO The Timeout is None
+2017-01-07 19:09:43,569 INFO The google.com resolves 74.125.232.232 ip
+2017-01-07 19:09:43,837 INFO connected
+2017-01-07 19:09:46,941 INFO The Timeout is None
+2017-01-07 19:09:52,313 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 19:09:52,704 INFO connected
+2017-01-07 19:09:56,232 INFO The Timeout is None
+2017-01-07 19:10:09,689 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:10:21,965 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:10:34,243 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:10:46,519 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:14:14,578 INFO The google.com resolves 173.194.44.72 ip
+2017-01-07 19:14:14,998 INFO connected
+2017-01-07 19:14:18,154 INFO The Timeout is None
+2017-01-07 19:14:18,992 INFO The google.com resolves 173.194.44.73 ip
+2017-01-07 19:14:19,260 INFO connected
+2017-01-07 19:14:22,362 INFO The Timeout is None
+2017-01-07 19:14:23,199 INFO The google.com resolves 173.194.44.78 ip
+2017-01-07 19:14:23,467 INFO connected
+2017-01-07 19:14:26,575 INFO The Timeout is None
+2017-01-07 19:14:27,416 INFO The google.com resolves 173.194.44.64 ip
+2017-01-07 19:14:27,685 INFO connected
+2017-01-07 19:14:30,806 INFO The Timeout is None
+2017-01-07 19:14:31,645 INFO The google.com resolves 173.194.44.65 ip
+2017-01-07 19:14:31,914 INFO connected
+2017-01-07 19:14:35,018 INFO The Timeout is None
+2017-01-07 19:14:35,872 INFO The google.com resolves 173.194.44.66 ip
+2017-01-07 19:14:36,142 INFO connected
+2017-01-07 19:14:39,248 INFO The Timeout is None
+2017-01-07 19:14:40,101 INFO The google.com resolves 173.194.44.67 ip
+2017-01-07 19:14:40,369 INFO connected
+2017-01-07 19:14:43,473 INFO The Timeout is None
+2017-01-07 19:14:44,313 INFO The google.com resolves 173.194.44.68 ip
+2017-01-07 19:14:44,581 INFO connected
+2017-01-07 19:14:47,685 INFO The Timeout is None
+2017-01-07 19:14:48,525 INFO The google.com resolves 173.194.44.69 ip
+2017-01-07 19:14:48,793 INFO connected
+2017-01-07 19:14:51,924 INFO The Timeout is None
+2017-01-07 19:14:52,762 INFO The google.com resolves 173.194.44.70 ip
+2017-01-07 19:14:53,031 INFO connected
+2017-01-07 19:14:56,136 INFO The Timeout is None
+2017-01-07 19:14:56,989 INFO The google.com resolves 173.194.44.71 ip
+2017-01-07 19:14:57,256 INFO connected
+2017-01-07 19:15:00,383 INFO The Timeout is None
+2017-01-07 19:15:05,757 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 19:15:06,147 INFO connected
+2017-01-07 19:15:09,606 INFO The Timeout is None
+2017-01-07 19:15:23,096 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:15:27,770 INFO The www.stopify.com resolves 78.41.204.26 ip
+2017-01-07 19:15:48,774 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 19:19:12,920 INFO The google.com resolves 216.58.211.142 ip
+2017-01-07 19:19:13,255 INFO connected
+2017-01-07 19:19:16,435 INFO The Timeout is None
+2017-01-07 19:19:21,846 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 19:19:22,238 INFO connected
+2017-01-07 19:19:25,682 INFO The Timeout is None
+2017-01-07 19:19:39,129 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:19:43,663 INFO The www.stopify.com resolves 78.41.204.26 ip
+2017-01-07 19:20:04,666 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 19:22:54,770 INFO The google.com resolves 216.58.211.142 ip
+2017-01-07 19:22:55,086 INFO connected
+2017-01-07 19:22:58,901 INFO The Timeout is None
+2017-01-07 19:23:04,302 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 19:23:04,691 INFO connected
+2017-01-07 19:23:08,132 INFO The Timeout is None
+2017-01-07 19:23:21,583 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 19:23:26,119 INFO The www.stopify.com resolves 78.41.204.26 ip
+2017-01-07 19:23:47,121 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 22:02:09,813 INFO The google.com resolves 74.125.232.226 ip
+2017-01-07 22:02:10,081 INFO connected
+2017-01-07 22:02:13,263 INFO The Timeout is None
+2017-01-07 22:02:14,101 INFO The google.com resolves 74.125.232.227 ip
+2017-01-07 22:02:14,369 INFO connected
+2017-01-07 22:02:17,471 INFO The Timeout is None
+2017-01-07 22:02:18,307 INFO The google.com resolves 74.125.232.228 ip
+2017-01-07 22:02:18,574 INFO connected
+2017-01-07 22:02:21,677 INFO The Timeout is None
+2017-01-07 22:02:22,516 INFO The google.com resolves 74.125.232.229 ip
+2017-01-07 22:02:22,784 INFO connected
+2017-01-07 22:02:25,889 INFO The Timeout is None
+2017-01-07 22:02:26,727 INFO The google.com resolves 74.125.232.230 ip
+2017-01-07 22:02:26,996 INFO connected
+2017-01-07 22:02:30,102 INFO The Timeout is None
+2017-01-07 22:02:30,939 INFO The google.com resolves 74.125.232.231 ip
+2017-01-07 22:02:31,206 INFO connected
+2017-01-07 22:02:34,310 INFO The Timeout is None
+2017-01-07 22:02:35,150 INFO The google.com resolves 74.125.232.232 ip
+2017-01-07 22:02:35,417 INFO connected
+2017-01-07 22:02:38,521 INFO The Timeout is None
+2017-01-07 22:02:39,358 INFO The google.com resolves 74.125.232.233 ip
+2017-01-07 22:02:39,625 INFO connected
+2017-01-07 22:02:42,728 INFO The Timeout is None
+2017-01-07 22:02:43,566 INFO The google.com resolves 74.125.232.238 ip
+2017-01-07 22:02:43,834 INFO connected
+2017-01-07 22:02:46,937 INFO The Timeout is None
+2017-01-07 22:02:47,773 INFO The google.com resolves 74.125.232.224 ip
+2017-01-07 22:02:48,040 INFO connected
+2017-01-07 22:02:51,144 INFO The Timeout is None
+2017-01-07 22:02:51,981 INFO The google.com resolves 74.125.232.225 ip
+2017-01-07 22:02:52,249 INFO connected
+2017-01-07 22:02:55,355 INFO The Timeout is None
+2017-01-07 22:03:05,761 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 22:03:06,153 INFO connected
+2017-01-07 22:03:09,611 INFO The Timeout is None
+2017-01-07 22:03:23,075 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 22:03:27,823 INFO The www.stopify.com resolves 78.41.204.26 ip
+2017-01-07 22:03:48,825 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 22:07:20,332 INFO The google.com resolves 173.194.32.165 ip
+2017-01-07 22:07:20,600 INFO connected
+2017-01-07 22:07:23,713 INFO The Timeout is None
+2017-01-07 22:07:24,552 INFO The google.com resolves 173.194.32.166 ip
+2017-01-07 22:07:24,820 INFO connected
+2017-01-07 22:07:27,923 INFO The Timeout is None
+2017-01-07 22:07:28,761 INFO The google.com resolves 173.194.32.167 ip
+2017-01-07 22:07:29,029 INFO connected
+2017-01-07 22:07:32,134 INFO The Timeout is None
+2017-01-07 22:07:32,976 INFO The google.com resolves 173.194.32.168 ip
+2017-01-07 22:07:33,245 INFO connected
+2017-01-07 22:07:36,350 INFO The Timeout is None
+2017-01-07 22:07:37,189 INFO The google.com resolves 173.194.32.169 ip
+2017-01-07 22:07:37,456 INFO connected
+2017-01-07 22:07:40,560 INFO The Timeout is None
+2017-01-07 22:07:41,400 INFO The google.com resolves 173.194.32.174 ip
+2017-01-07 22:07:41,669 INFO connected
+2017-01-07 22:07:44,773 INFO The Timeout is None
+2017-01-07 22:07:45,612 INFO The google.com resolves 173.194.32.160 ip
+2017-01-07 22:07:45,880 INFO connected
+2017-01-07 22:07:48,986 INFO The Timeout is None
+2017-01-07 22:07:49,827 INFO The google.com resolves 173.194.32.161 ip
+2017-01-07 22:07:50,095 INFO connected
+2017-01-07 22:07:53,200 INFO The Timeout is None
+2017-01-07 22:07:54,041 INFO The google.com resolves 173.194.32.162 ip
+2017-01-07 22:07:54,309 INFO connected
+2017-01-07 22:07:57,414 INFO The Timeout is None
+2017-01-07 22:07:58,251 INFO The google.com resolves 173.194.32.163 ip
+2017-01-07 22:07:58,518 INFO connected
+2017-01-07 22:08:01,622 INFO The Timeout is None
+2017-01-07 22:08:02,460 INFO The google.com resolves 173.194.32.164 ip
+2017-01-07 22:08:02,729 INFO connected
+2017-01-07 22:08:05,832 INFO The Timeout is None
+2017-01-07 22:08:11,205 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 22:08:11,594 INFO connected
+2017-01-07 22:08:15,041 INFO The Timeout is None
+2017-01-07 22:08:28,493 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 22:08:33,028 INFO The www.stopify.com resolves 78.41.204.26 ip
+2017-01-07 22:08:54,029 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 22:28:32,078 INFO The google.com resolves 173.194.122.227 ip
+2017-01-07 22:28:32,346 INFO connected
+2017-01-07 22:28:35,461 INFO The Timeout is None
+2017-01-07 22:28:36,302 INFO The google.com resolves 173.194.122.228 ip
+2017-01-07 22:28:36,569 INFO connected
+2017-01-07 22:28:39,675 INFO The Timeout is None
+2017-01-07 22:28:40,514 INFO The google.com resolves 173.194.122.229 ip
+2017-01-07 22:28:40,781 INFO connected
+2017-01-07 22:28:43,888 INFO The Timeout is None
+2017-01-07 22:28:44,726 INFO The google.com resolves 173.194.122.230 ip
+2017-01-07 22:28:44,994 INFO connected
+2017-01-07 22:28:48,097 INFO The Timeout is None
+2017-01-07 22:28:48,936 INFO The google.com resolves 173.194.122.231 ip
+2017-01-07 22:28:49,203 INFO connected
+2017-01-07 22:28:52,308 INFO The Timeout is None
+2017-01-07 22:28:53,148 INFO The google.com resolves 173.194.122.232 ip
+2017-01-07 22:28:53,417 INFO connected
+2017-01-07 22:28:56,524 INFO The Timeout is None
+2017-01-07 22:28:57,364 INFO The google.com resolves 173.194.122.233 ip
+2017-01-07 22:28:57,632 INFO connected
+2017-01-07 22:29:00,739 INFO The Timeout is None
+2017-01-07 22:29:01,579 INFO The google.com resolves 173.194.122.238 ip
+2017-01-07 22:29:01,848 INFO connected
+2017-01-07 22:29:04,950 INFO The Timeout is None
+2017-01-07 22:29:05,788 INFO The google.com resolves 173.194.122.224 ip
+2017-01-07 22:29:06,057 INFO connected
+2017-01-07 22:29:09,162 INFO The Timeout is None
+2017-01-07 22:29:10,000 INFO The google.com resolves 173.194.122.225 ip
+2017-01-07 22:29:10,268 INFO connected
+2017-01-07 22:29:13,371 INFO The Timeout is None
+2017-01-07 22:29:14,208 INFO The google.com resolves 173.194.122.226 ip
+2017-01-07 22:29:14,475 INFO connected
+2017-01-07 22:29:17,583 INFO The Timeout is None
+2017-01-07 22:29:22,953 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 22:29:23,341 INFO connected
+2017-01-07 22:29:26,780 INFO The Timeout is None
+2017-01-07 22:29:40,266 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 22:29:45,001 INFO The www.stopify.com resolves 209.126.123.11 ip
+2017-01-07 22:30:06,003 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 22:34:21,508 INFO The google.com resolves 173.194.122.198 ip
+2017-01-07 22:34:21,777 INFO connected
+2017-01-07 22:34:24,885 INFO The Timeout is None
+2017-01-07 22:34:25,725 INFO The google.com resolves 173.194.122.199 ip
+2017-01-07 22:34:25,992 INFO connected
+2017-01-07 22:34:29,097 INFO The Timeout is None
+2017-01-07 22:34:29,934 INFO The google.com resolves 173.194.122.200 ip
+2017-01-07 22:34:30,203 INFO connected
+2017-01-07 22:34:33,306 INFO The Timeout is None
+2017-01-07 22:34:34,142 INFO The google.com resolves 173.194.122.201 ip
+2017-01-07 22:34:34,410 INFO connected
+2017-01-07 22:34:37,513 INFO The Timeout is None
+2017-01-07 22:34:38,351 INFO The google.com resolves 173.194.122.206 ip
+2017-01-07 22:34:38,619 INFO connected
+2017-01-07 22:34:41,723 INFO The Timeout is None
+2017-01-07 22:34:42,562 INFO The google.com resolves 173.194.122.192 ip
+2017-01-07 22:34:42,830 INFO connected
+2017-01-07 22:34:45,935 INFO The Timeout is None
+2017-01-07 22:34:46,776 INFO The google.com resolves 173.194.122.193 ip
+2017-01-07 22:34:47,045 INFO connected
+2017-01-07 22:34:50,152 INFO The Timeout is None
+2017-01-07 22:34:50,991 INFO The google.com resolves 173.194.122.194 ip
+2017-01-07 22:34:51,259 INFO connected
+2017-01-07 22:34:54,364 INFO The Timeout is None
+2017-01-07 22:34:55,203 INFO The google.com resolves 173.194.122.195 ip
+2017-01-07 22:34:55,471 INFO connected
+2017-01-07 22:34:58,576 INFO The Timeout is None
+2017-01-07 22:34:59,414 INFO The google.com resolves 173.194.122.196 ip
+2017-01-07 22:34:59,681 INFO connected
+2017-01-07 22:35:02,786 INFO The Timeout is None
+2017-01-07 22:35:03,627 INFO The google.com resolves 173.194.122.197 ip
+2017-01-07 22:35:03,895 INFO connected
+2017-01-07 22:35:06,998 INFO The Timeout is None
+2017-01-07 22:35:12,370 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 22:35:12,759 INFO connected
+2017-01-07 22:35:16,195 INFO The Timeout is None
+2017-01-07 22:35:29,646 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 22:35:34,181 INFO The www.stopify.com resolves 209.126.123.11 ip
+2017-01-07 22:35:55,183 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 22:41:14,845 INFO The google.com resolves 173.194.122.198 ip
+2017-01-07 22:41:15,113 INFO connected
+2017-01-07 22:41:18,225 INFO The Timeout is None
+2017-01-07 22:41:19,071 INFO The google.com resolves 173.194.122.199 ip
+2017-01-07 22:41:19,338 INFO connected
+2017-01-07 22:41:22,445 INFO The Timeout is None
+2017-01-07 22:41:23,281 INFO The google.com resolves 173.194.122.200 ip
+2017-01-07 22:41:23,549 INFO connected
+2017-01-07 22:41:26,655 INFO The Timeout is None
+2017-01-07 22:41:27,497 INFO The google.com resolves 173.194.122.201 ip
+2017-01-07 22:41:27,765 INFO connected
+2017-01-07 22:41:30,869 INFO The Timeout is None
+2017-01-07 22:41:31,707 INFO The google.com resolves 173.194.122.206 ip
+2017-01-07 22:41:31,975 INFO connected
+2017-01-07 22:41:35,081 INFO The Timeout is None
+2017-01-07 22:41:35,918 INFO The google.com resolves 173.194.122.192 ip
+2017-01-07 22:41:36,186 INFO connected
+2017-01-07 22:41:39,292 INFO The Timeout is None
+2017-01-07 22:41:40,130 INFO The google.com resolves 173.194.122.193 ip
+2017-01-07 22:41:40,398 INFO connected
+2017-01-07 22:41:43,503 INFO The Timeout is None
+2017-01-07 22:41:44,343 INFO The google.com resolves 173.194.122.194 ip
+2017-01-07 22:41:44,613 INFO connected
+2017-01-07 22:41:47,717 INFO The Timeout is None
+2017-01-07 22:41:48,555 INFO The google.com resolves 173.194.122.195 ip
+2017-01-07 22:41:48,823 INFO connected
+2017-01-07 22:41:51,926 INFO The Timeout is None
+2017-01-07 22:41:52,763 INFO The google.com resolves 173.194.122.196 ip
+2017-01-07 22:41:53,032 INFO connected
+2017-01-07 22:41:56,138 INFO The Timeout is None
+2017-01-07 22:41:56,977 INFO The google.com resolves 173.194.122.197 ip
+2017-01-07 22:41:57,246 INFO connected
+2017-01-07 22:42:00,351 INFO The Timeout is None
+2017-01-07 22:42:05,727 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 22:42:06,117 INFO connected
+2017-01-07 22:42:09,575 INFO The Timeout is None
+2017-01-07 22:42:23,019 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 22:42:27,711 INFO The www.stopify.com resolves 209.126.123.11 ip
+2017-01-07 22:42:48,713 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 22:43:59,870 INFO The google.com resolves 173.194.122.200 ip
+2017-01-07 22:44:00,152 INFO connected
+2017-01-07 22:44:03,264 INFO The Timeout is None
+2017-01-07 22:44:04,104 INFO The google.com resolves 173.194.122.201 ip
+2017-01-07 22:44:04,373 INFO connected
+2017-01-07 22:44:07,476 INFO The Timeout is None
+2017-01-07 22:44:08,317 INFO The google.com resolves 173.194.122.206 ip
+2017-01-07 22:44:08,585 INFO connected
+2017-01-07 22:44:11,688 INFO The Timeout is None
+2017-01-07 22:44:12,526 INFO The google.com resolves 173.194.122.192 ip
+2017-01-07 22:44:12,795 INFO connected
+2017-01-07 22:44:15,899 INFO The Timeout is None
+2017-01-07 22:44:16,736 INFO The google.com resolves 173.194.122.193 ip
+2017-01-07 22:44:17,004 INFO connected
+2017-01-07 22:44:20,107 INFO The Timeout is None
+2017-01-07 22:44:20,943 INFO The google.com resolves 173.194.122.194 ip
+2017-01-07 22:44:21,211 INFO connected
+2017-01-07 22:44:24,316 INFO The Timeout is None
+2017-01-07 22:44:25,152 INFO The google.com resolves 173.194.122.195 ip
+2017-01-07 22:44:25,420 INFO connected
+2017-01-07 22:44:28,524 INFO The Timeout is None
+2017-01-07 22:44:29,362 INFO The google.com resolves 173.194.122.196 ip
+2017-01-07 22:44:29,629 INFO connected
+2017-01-07 22:44:32,731 INFO The Timeout is None
+2017-01-07 22:44:33,569 INFO The google.com resolves 173.194.122.197 ip
+2017-01-07 22:44:33,837 INFO connected
+2017-01-07 22:44:36,940 INFO The Timeout is None
+2017-01-07 22:44:37,778 INFO The google.com resolves 173.194.122.198 ip
+2017-01-07 22:44:38,045 INFO connected
+2017-01-07 22:44:41,148 INFO The Timeout is None
+2017-01-07 22:44:41,984 INFO The google.com resolves 173.194.122.199 ip
+2017-01-07 22:44:42,252 INFO connected
+2017-01-07 22:44:45,355 INFO The Timeout is None
+2017-01-07 22:44:50,725 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 22:44:51,115 INFO connected
+2017-01-07 22:44:54,550 INFO The Timeout is None
+2017-01-07 22:45:07,998 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 22:45:12,532 INFO The www.stopify.com resolves 209.126.123.11 ip
+2017-01-07 22:45:33,533 ERROR The www.stopify.com doesn't listen on port 443
+2017-01-07 22:47:43,876 INFO The google.com resolves 216.58.211.142 ip
+2017-01-07 22:47:44,164 INFO connected
+2017-01-07 22:47:47,300 INFO The Timeout is None
+2017-01-07 22:47:52,704 INFO The shopboltnow.com resolves 63.241.100.35 ip
+2017-01-07 22:47:53,097 INFO connected
+2017-01-07 22:47:56,538 INFO The Timeout is None
+2017-01-07 22:48:09,996 INFO The site switchfit.io
+ is bad resolution
+2017-01-07 22:48:14,530 INFO The www.stopify.com resolves 209.126.123.11 ip
+2017-01-07 22:48:35,532 ERROR The www.stopify.com doesn't listen on port 443

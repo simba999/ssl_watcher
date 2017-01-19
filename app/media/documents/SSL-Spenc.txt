@@ -1,0 +1,14 @@
+Thanks for responding so quickly.
+This is my first hire on Upwork so I wanted to do something pretty simple initially.
+I want to be able to feed a list of domains into a tool, that will:
+1) resolve the domain
+2) log which IPs it resolves to
+3) for each IP that the domain resolves to:
+a) check if it listens on 443
+b) if it connects, take the info from getpeercert() (https://docs.python.org/3.6/library/ssl.html)
+c) store it in a Django model in Postgresql (with the times as django times not strings)
+d) log any timeouts, resolution fails, unmatched certificates
+4) have a basic management interface for internal use only, normal Django admin is probably fine.
+5) a basic stats page on how many of the sites that are stored use each certificate chain, histogram of time to expiry and any other useful things you can pull out.
+6) have Django tests to show it works for timeouts, bad resolutions, non-SSL/TLS talking 443, parking pages etc.
+7) Be as fast as possible as I'll be feeding it a few million domains, although async in django isn't really possible so I'm happy to just divide it up across systems to run rather than make it over complicated.

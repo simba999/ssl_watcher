@@ -1,0 +1,4 @@
+Python: 3.5+, django: 1.10
+1. To input the data, type the url: localhost:8000/ssl_watcher
+2. To see the infomation, type the url: localhost:8000/ssl_watcher/show
+
